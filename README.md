@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?logo=google-chrome)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@example.com)  
-<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" width="50" />
+<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" width="100" />(mailto:your-email@example.com)  
 
 ---
 
