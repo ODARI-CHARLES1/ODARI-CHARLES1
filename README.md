@@ -30,10 +30,10 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ---
 
 ## 📊 GitHub Stats  
-![Charles Odari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesOdari&show_icons=true&theme=tokyonight)  
+![Charles Odari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight)  
 
 ## 🔥 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesOdari&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight)  
 
 ---
 
