@@ -14,7 +14,7 @@ I love integrating **hardware with software**, designing **efficient systems**, 
 My goal is to contribute to **cutting-edge technology** and **mathematical innovations** that create an impact.  
 
 🔹 **Tech Stack:**  
-- **Programming:** C, Python, JavaScript, PHP, Assembly  
+- **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA  
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
 - **IoT & PCB:** Arduino, ESP32, PCB Design (KiCAD, Altium), Proteus  
 - **AI & ML:** Computer Vision, Neural Networks, Data Structures & Algorithms  
