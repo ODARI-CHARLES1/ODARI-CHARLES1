@@ -60,6 +60,19 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-123456?style=for-the-badge&logo=freecad&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+### 🎛️ Simulation & Modeling Software
+![MATLAB Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-AE0000?style=for-the-badge&logo=analogdevices&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-005CAB?style=for-the-badge&logo=ni&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![COMSOL](https://img.shields.io/badge/COMSOL-003B6F?style=for-the-badge&logo=comsol&logoColor=white)
+![SimScale](https://img.shields.io/badge/SimScale-0084FF?style=for-the-badge&logo=simscale&logoColor=white)
+![Xcos (Scilab)](https://img.shields.io/badge/Xcos-744DA9?style=for-the-badge&logo=scilab&logoColor=white)
+![Modelica](https://img.shields.io/badge/Modelica-FF3B00?style=for-the-badge&logo=modelica&logoColor=white)
+![OpenModelica](https://img.shields.io/badge/OpenModelica-0088CC?style=for-the-badge&logo=openmodelica&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2F3453?style=for-the-badge&logo=gazebo&logoColor=white)
+
+
 ### ☁️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
