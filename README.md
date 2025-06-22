@@ -13,6 +13,16 @@ I am an **Electrical & Electronics Engineering student** passionate about **IoT,
 I love integrating **hardware with software**, designing **efficient systems**, and working on **real-world solutions**.  
 My goal is to contribute to **cutting-edge technology** and **mathematical innovations** that create an impact.  
 
+---
+
+🔹 **Tech Stack:**  
+- **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA  
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
+- **IoT & PCB:** Arduino, ESP32, PCB Design (KiCAD, Altium), Proteus  
+- **AI & ML:** Computer Vision, Neural Networks, Data Structures & Algorithms  
+- **Mathematical Computing:** MATLAB, PSPICE, Physics Simulations  
+
+---
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,7 +34,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -34,21 +44,28 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### ☁️ Deployment / Databases / Extras
+### 🎨 Designing Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 🧪 Engineering & CAD Tools
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C21?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-EDB220?style=for-the-badge&logo=autodesk&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-123456?style=for-the-badge&logo=freecad&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### ☁️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-🔹 **Tech Stack:**  
-- **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA  
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
-- **IoT & PCB:** Arduino, ESP32, PCB Design (KiCAD, Altium), Proteus  
-- **AI & ML:** Computer Vision, Neural Networks, Data Structures & Algorithms  
-- **Mathematical Computing:** MATLAB, PSPICE, Physics Simulations  
-
----
 
 ## **🚀 What I'm Currently Working On**  
 🔹 **IoT Smart Monitoring System** – Real-time remote monitoring for health data  
