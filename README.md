@@ -13,6 +13,17 @@ I am an **Electrical & Electronics Engineering student** passionate about **IoT,
 I love integrating **hardware with software**, designing **efficient systems**, and working on **real-world solutions**.  
 My goal is to contribute to **cutting-edge technology** and **mathematical innovations** that create an impact.  
 
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
 🔹 **Tech Stack:**  
 - **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA  
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
