@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:daymondodari68@gmail.com)  
 
 ---
+[!badge icon](https://camo.githubusercontent.com/c0a80be6ff8d7bab6293e1a320c6e7bab47e215288901285780d97b2b41932d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c656e6465722d4635373932413f7374796c653d666f722d7468652d6261646765266c6f676f3d626c656e646572266c6f676f436f6c6f723d7768697465)
 
 ## **👨‍💻 About Me**  
 I am an **Electrical & Electronics Engineering student** passionate about **IoT, AI, PCB design, mathematics, and backend development**.  
