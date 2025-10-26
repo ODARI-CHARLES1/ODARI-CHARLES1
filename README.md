@@ -9,7 +9,7 @@
 ---
 
 
-## **👨‍💻 About Me**  
+## **About Me**  
 I am an **Electrical & Electronics Engineering student** passionate about **IoT, AI, PCB design, mathematics, and backend development**.  
 I love integrating **hardware with software**, designing **efficient systems**, and working on **real-world solutions**.  
 My goal is to contribute to **cutting-edge technology** and **mathematical innovations** that create an impact.  
