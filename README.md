@@ -24,7 +24,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 - **Mathematical Computing:** MATLAB, PSPICE, Physics Simulations  
 
 ---
-### 🧠 Languages
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### ⚙️ Development Tools & Platforms
+### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -45,7 +45,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🎨 Designing Tools
+### Designing Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -53,7 +53,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### 🧪 Engineering & CAD Tools
+###  Engineering & CAD Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C21?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-EDB220?style=for-the-badge&logo=autodesk&logoColor=black)
@@ -61,7 +61,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-123456?style=for-the-badge&logo=freecad&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🎛️ Simulation & Modeling Software
+### Simulation & Modeling Software
 ![MATLAB Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-AE0000?style=for-the-badge&logo=analogdevices&logoColor=white)
 ![Multisim](https://img.shields.io/badge/Multisim-005CAB?style=for-the-badge&logo=ni&logoColor=white)
@@ -73,7 +73,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![OpenModelica](https://img.shields.io/badge/OpenModelica-0088CC?style=for-the-badge&logo=openmodelica&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-2F3453?style=for-the-badge&logo=gazebo&logoColor=white)
 
-### 🧩 Frameworks
+### Frameworks
 
 <!-- Web Frameworks -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -101,29 +101,29 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-### ☁️ Databases & DevOps
+### Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## **🚀 What I'm Currently Working On**  
+## **What I'm Currently Working On**  
 🔹 **IoT Smart Monitoring System** – Real-time remote monitoring for health data  
 🔹 **Mathematical Concept (Cart-Class)** – Developing mathematical functions for design and animations  
 🔹 **Python Library for Scientific Computing**  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Charles Odari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight)  
 
-## 🔥 Most Used Languages  
+##  Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌍 Let's Connect!  
+##  Let's Connect!  
 [![GitHub followers](https://img.shields.io/github/followers/CharlesOdari?label=Follow&style=social)](https://github.com/ODARI-CHARLES1)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)  
