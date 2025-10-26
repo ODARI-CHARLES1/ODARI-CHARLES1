@@ -1,4 +1,4 @@
-# **Odari K. Charles** 🚀  
+# **Odari K. Charles** 
 **Electrical & Electronics Engineer | Software Developer | IoT Enthusiast | AI/ML Researcher**  
 
 [![GitHub followers](https://img.shields.io/github/followers/CharlesOdari?label=Follow&style=social)](https://github.com/ODARI-CHARLES1)  
