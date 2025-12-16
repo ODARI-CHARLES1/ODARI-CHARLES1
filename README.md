@@ -16,11 +16,12 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 ---
 
 🔹 **Tech Stack:**  
-- **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA  
+- **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA,Typescript,  
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
 - **IoT & PCB:** Arduino, ESP32, PCB Design (KiCAD, Altium), Proteus  
 - **AI & ML:** Computer Vision, Neural Networks, Data Structures & Algorithms  
-- **Mathematical Computing:** MATLAB, PSPICE, Physics Simulations  
+- **Mathematical Computing:** MATLAB, PSPICE, Physics Simulations
+- **Sound Engineering and music production**: 
 
 ---
 ### Languages
