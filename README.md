@@ -13,6 +13,7 @@ My goal is to contribute to **cutting-edge technology** and **mathematical innov
 
 ---
 
+
 🔹 **Tech Stack:**  
 - **Programming:** C,C++,C#, Python, JavaScript, PHP, Assembly,JAVA,Typescript,  
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, MySQL  
