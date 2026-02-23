@@ -102,10 +102,20 @@ Django, Node.js, REST APIs, SQL databases
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-master-odaris-projects.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-git-master-odaris-projects.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight)
 
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ODARI-CHARLES1&theme=tokyonight)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square)
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ODARI-CHARLES1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=5)
 ---
 
 ## Contact and Links
