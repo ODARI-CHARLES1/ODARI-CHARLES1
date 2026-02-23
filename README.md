@@ -102,9 +102,9 @@ Django, Node.js, REST APIs, SQL databases
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-odaris-projects.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight)
 
 ---
 
