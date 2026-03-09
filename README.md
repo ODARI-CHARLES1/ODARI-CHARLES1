@@ -9,7 +9,7 @@
 
 ---
 
-I am an Electrical and Electronics Engineering student focused on designing and building end-to-end engineering systems that integrate hardware, firmware, and backend software. My interests include IoT systems, embedded development, backend services, and engineering simulations, supported by a strong foundation in mathematics and system modeling.
+I am an Electrical and Electronics Engineering student focused on designing and building end-to-end engineering systems that integrate hardware, firmware, and backend software. My interests include IoT systems, Robotics, embedded development, backend services, and engineering simulations, supported by a strong foundation in mathematics and system modeling.
 
 I work on practical engineering problems where reliability, efficiency, and scalability are critical.
 
