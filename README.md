@@ -36,6 +36,31 @@ I work on practical engineering problems where reliability, efficiency, and scal
 - Numerical methods and applied mathematics
 - System-level simulation and testing
 
+### Artificial Intelligence and Machine Learning
+ - Machine learning fundamentals
+ - AI integration with embedded and IoT systems
+ - Data processing pipelines
+ - Edge AI and intelligent sensor systems
+ - Applied AI for engineering applications
+
+### Mathematics and System Modeling
+ - Linear algebra and optimization
+ - Probability and statistics for engineering systems
+ - Differential equations and control systems
+ - Numerical methods and computational mathematics
+ - Mathematical modeling of physical systems
+
+### Graphic Design and Technical Visualization
+ - Engineering visualization and diagram design
+ - Technical documentation graphics
+ - UI design for dashboards and engineering systems
+ - Vector graphics and digital design tools
+### Robotics and Intelligent Systems
+ - Robot control systems
+ - Sensor fusion and perception
+ - Embedded control algorithms
+ - Autonomous system design
+ - Integration of hardware, firmware, and AI components
 ---
 
 ## Technical Stack
