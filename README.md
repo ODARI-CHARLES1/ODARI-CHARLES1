@@ -2,7 +2,7 @@
 **Electrical & Electronics Engineer | Embedded Systems | IoT & Backend Engineering**
 
 <p align="center">
-<img width="1980px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img width="1980px" height="500px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
