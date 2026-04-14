@@ -142,10 +142,7 @@ Backend infrastructure for **sensor data processing and dashboards**.
 
 # Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
 
 ---
 
