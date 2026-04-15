@@ -125,7 +125,8 @@ Backend infrastructure for **sensor data processing and dashboards**.
 - Embedded–backend integration  
 - Robotics and intelligent systems  
 - Applied mathematics for engineering systems  
-
+- PCB Designs
+- AI- Machine Learning - Deep Learning
 ---
 
 # GitHub Stats
