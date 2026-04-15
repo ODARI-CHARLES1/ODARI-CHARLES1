@@ -1,5 +1,5 @@
 # Odari K. Charles  
-**Electrical & Electronics Engineer | Embedded Systems | IoT & Backend Engineering**
+**Electrical & Electronics Engineer | Embedded Systems | IoT & Backend Engineering | Robotics | Fullstack Development | AI**
 
 <p align="center">
 <img width="1980px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
