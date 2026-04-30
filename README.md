@@ -118,16 +118,16 @@ Infrastructure for **sensor data pipelines and dashboards**.
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight&cache_seconds=1800" height="150">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=ODARI-CHARLES1&theme=tokyonight" height="150">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square">
 </p>
 
