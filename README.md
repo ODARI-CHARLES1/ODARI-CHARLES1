@@ -1,131 +1,144 @@
 # Odari K. Charles  
-**Electrical & Electronics Engineer | Embedded Systems | IoT & Backend Engineering | Robotics | Fullstack Development | AI**
+**Electrical & Electronics Engineer | Embedded Systems | IoT | Robotics | Backend Engineering | AI**
 
 <p align="center">
-<img width="1980px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
+<p align="center">
+  <a href="https://github.com/ODARI-CHARLES1">
+    <img src="https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://charles.k.odari.portfolio.thegtm.or.ke/">
+    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://ke.linkedin.com/in/odari-kibisi-charles-329b19331">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:daymondodari68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## About
 
-Electrical and Electronics Engineering student focused on **end-to-end systems** integrating **hardware, firmware, AI, and backend software**.
+Electrical and Electronics Engineering student focused on **end-to-end system design**—from **hardware and firmware** to **backend systems and intelligent software**.
 
-My work includes **IoT systems, robotics, embedded development, engineering simulations, and intelligent systems**, supported by **mathematics and computational modeling**.
+I build systems that integrate:
+- Embedded devices (ESP32, STM32)  
+- Communication (IoT, LoRa)  
+- Backend APIs and data pipelines  
+- Intelligent processing (AI, computer vision)  
 
 ---
 
-# Skills & Technologies
-
-<table>
-<tr>
-
-<td align="center">
+## Core Skills
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</td>
+---
 
-<td align="center">
+### Embedded & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-Embedded-blue?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![RTOS](https://img.shields.io/badge/RTOS-RealTime-green?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad)
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)<br>
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)<br>
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+---
 
-</td>
-
-<td align="center">
-
-### Embedded
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)<br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)<br>
-![Embedded C](https://img.shields.io/badge/Embedded-C-blue?style=for-the-badge)<br>
-![RTOS](https://img.shields.io/badge/RTOS-RealTime-green?style=for-the-badge)<br>
-![Sensors](https://img.shields.io/badge/Sensors-Interface-orange?style=for-the-badge)
-
-</td>
-
-<td align="center">
-
-### Hardware
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad)<br>
-![PCB Design](https://img.shields.io/badge/PCB-Design-blue?style=for-the-badge)<br>
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge)<br>
-![LTspice](https://img.shields.io/badge/LTspice-Circuit-brown?style=for-the-badge)<br>
-![Multisim](https://img.shields.io/badge/Multisim-NI-blue?style=for-the-badge)
-
-</td>
-
-<td align="center">
-
-### AI & Data
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-yellow?style=for-the-badge)<br>
-![OpenCV](https://img.shields.io/badge/OpenCV-Vision-blue?style=for-the-badge)<br>
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge)<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)<br>
+### Backend & Software
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 
-</td>
-</tr>
-</table>
+---
+
+### AI & Data
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-yellow?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Vision-blue?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge)
 
 ---
 
-# Selected Projects
+## Selected Projects
 
-### IoT Smart Monitoring System
-Real-time IoT system for **remote sensor monitoring and data acquisition**.
+### IoT Smart Monitoring System  
+Real-time system for **remote sensor monitoring and data acquisition**.
 
-### Scientific & Mathematical Computing Tools
-Engineering **simulation and computational modeling tools**.
+**Tech Stack**  
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=flat-square)
+![C++](https://img.shields.io/badge/C++-Firmware-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Backend-green?style=flat-square)
+![Django](https://img.shields.io/badge/Django-API-darkgreen?style=flat-square)
 
-### Backend Systems for Data Processing
-Backend infrastructure for **sensor data processing and dashboards**.
+**Highlights**
+- Real-time sensor data streaming  
+- Backend API for processing and visualization  
+- Scalable architecture for distributed devices  
 
 ---
 
-# Current Focus
+### Scientific & Mathematical Computing Tools  
+Engineering tools for **simulation and computational modeling**.
 
-- Scalable IoT architectures  
-- Embedded–backend integration  
-- Robotics and intelligent systems  
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-Numerical-blue?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=flat-square)
+
+---
+
+### Backend Systems for Data Processing  
+Infrastructure for **sensor data pipelines and dashboards**.
+
+**Tech Stack**  
+![Django](https://img.shields.io/badge/Django-Backend-darkgreen?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-Server-green?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square)
+
+---
+
+## Current Focus
+
+- Robotics systems (control + perception)  
+- Embedded ↔ backend integration  
+- IoT architectures (LoRa, distributed systems)  
 - Applied mathematics for engineering systems  
-- PCB Designs  
-- AI / Machine Learning / Deep Learning  
+- AI / Machine Learning  
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight&cache_seconds=1800" height="150">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ODARI-CHARLES1&theme=tokyonight" height="150">
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ODARI-CHARLES1&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square">
+</p>
 
 ---
 
-# Contact
+## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
+- GitHub: https://github.com/ODARI-CHARLES1  
+- Portfolio: https://charles.k.odari.portfolio.thegtm.or.ke/  
+- LinkedIn: https://ke.linkedin.com/in/odari-kibisi-charles-329b19331  
+- Email: daymondodari68@gmail.com  
 
 ---
 
