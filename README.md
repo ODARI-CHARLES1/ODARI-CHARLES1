@@ -2,7 +2,7 @@
 **Electrical & Electronics Engineer | Embedded Systems | IoT & Backend Engineering | Robotics | Fullstack Development | AI**
 
 <p align="center">
-<img width="1980px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img width="1980px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
@@ -86,36 +86,14 @@ My work includes **IoT systems, robotics, embedded development, engineering simu
 
 # Selected Projects
 
-###  IoT Smart Monitoring System
-
+### IoT Smart Monitoring System
 Real-time IoT system for **remote sensor monitoring and data acquisition**.
 
-**Technologies**
-
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=flat-square)![C++](https://img.shields.io/badge/C++-Firmware-blue?style=flat-square)![Python](https://img.shields.io/badge/Python-Backend-green?style=flat-square)![Django](https://img.shields.io/badge/Django-API-darkgreen?style=flat-square)
-
----
-
-###  Scientific & Mathematical Computing Tools
-
+### Scientific & Mathematical Computing Tools
 Engineering **simulation and computational modeling tools**.
 
-**Technologies**
-
-![Python](https://img.shields.io/badge/Python-Numerical-blue?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=flat-square)
-
----
-
 ### Backend Systems for Data Processing
-
 Backend infrastructure for **sensor data processing and dashboards**.
-
-**Technologies**
-
-![Django](https://img.shields.io/badge/Django-Backend-darkgreen?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Server-green?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square)
 
 ---
 
@@ -125,25 +103,29 @@ Backend infrastructure for **sensor data processing and dashboards**.
 - Embedded–backend integration  
 - Robotics and intelligent systems  
 - Applied mathematics for engineering systems  
-- PCB Designs
-- AI- Machine Learning - Deep Learning
+- PCB Designs  
+- AI / Machine Learning / Deep Learning  
+
 ---
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00ffcc&icon_color=ff69b4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats-git-master-odaris-projects.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight&title_color=00ffcc&icon_color=ff69b4)](https://github.com/ODARI-CHARLES1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ODARI-CHARLES1&theme=tokyonight)](https://github.com/ODARI-CHARLES1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ODARI-CHARLES1&theme=tokyonight)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square)](https://github.com/ODARI-CHARLES1)
+![Profile Views](https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square)
 
 ---
 
 # Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github)](https://github.com/ODARI-CHARLES1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://charles.k.odari.portfolio.thegtm.or.ke/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://ke.linkedin.com/in/odari-kibisi-charles-329b19331)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daymondodari68@gmail.com)
 
 ---
 
