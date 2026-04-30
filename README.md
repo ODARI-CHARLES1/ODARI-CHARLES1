@@ -26,12 +26,6 @@
 
 Electrical and Electronics Engineering student focused on **end-to-end system design**—from **hardware and firmware** to **backend systems and intelligent software**.
 
-I build systems that integrate:
-- Embedded devices (ESP32, STM32)  
-- Communication (IoT, LoRa)  
-- Backend APIs and data pipelines  
-- Intelligent processing (AI, computer vision)  
-
 ---
 
 ## Core Skills
