@@ -131,7 +131,7 @@ Backend infrastructure for **sensor data processing and dashboards**.
 
 # GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00ffcc&icon_color=ff69b4)](https://github.com/ODARI-CHARLES1)
+![GitHub Stats](https://github-readme-stats-git-master-odaris-projects.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00ffcc&icon_color=ff69b4)
 
 [![Top Languages](https://github-readme-stats-git-master-odaris-projects.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=6&theme=tokyonight&title_color=00ffcc&icon_color=ff69b4)](https://github.com/ODARI-CHARLES1)
 
