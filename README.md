@@ -2,7 +2,7 @@
 **Electrical & Electronics Engineer | Embedded Systems | IoT | Robotics | Backend Engineering | AI**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img width="1280px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p>
 
 <p align="center">
