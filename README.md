@@ -114,8 +114,10 @@ Infrastructure for **sensor data pipelines and dashboards**.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight&cache_seconds=1800" height="150">
 
+  <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight&cache_seconds=1800" height="150">
+-->
 </p>
 
 <p align="left">
