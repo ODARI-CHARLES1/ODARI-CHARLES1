@@ -1,9 +1,9 @@
-# Odari K. Charles  
-**Electrical & Electronics Engineer | Embedded Systems | IoT | Robotics | Backend Engineering | AI | Fullstack Developer**
+# Hi there, I'm Odari K. Charles 👋
 
+### Electrical & Electronics Engineering Student | Embedded Systems Engineer | IoT Developer | Robotics Enthusiast | Backend Engineer | AI & Full-Stack Developer
 
 <p align="center">
-  <img width="1280px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-ODARI--CHARLES1-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://charles.k.odari.portfolio.thegtm.or.ke/">
-    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0066CC?style=for-the-badge&logo=google-chrome">
   </a>
   <a href="https://ke.linkedin.com/in/odari-kibisi-charles-329b19331">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
@@ -21,124 +21,223 @@
   </a>
 </p>
 
+---
+
+# About Me
+
+I am an **Electrical and Electronics Engineering student** passionate about designing intelligent systems that bridge **electronics, embedded software, backend infrastructure, robotics, and artificial intelligence**.
+
+My engineering interests extend from **hardware design and firmware development** to **cloud-connected IoT systems, backend APIs, machine learning, and autonomous robotics**. I enjoy transforming theoretical concepts into practical, reliable engineering solutions that solve real-world problems.
+
+I believe engineering is most impactful when hardware, software, and mathematics work together seamlessly.
 
 ---
 
-## About
+# Engineering Interests
 
-Electrical and Electronics Engineering student focused on **end-to-end system design**—from **hardware and firmware** to **backend systems and intelligent software**.
-
----
-
-## Core Skills
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Embedded & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-Embedded-blue?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![RTOS](https://img.shields.io/badge/RTOS-RealTime-green?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad)
+* Embedded Systems
+* Internet of Things (IoT)
+* Robotics & Autonomous Systems
+* Artificial Intelligence & Machine Learning
+* Control Systems Engineering
+* Backend System Design
+* Signal Processing
+* Computer Vision
+* Industrial Automation
+* Scientific Computing
 
 ---
 
-### Backend & Software
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+# Technical Skills
 
----
+## Programming Languages
 
-### AI & Data
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-yellow?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Vision-blue?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge)
-
----
-
-## Selected Projects
-
-### IoT Smart Monitoring System  
-Real-time system for **remote sensor monitoring and data acquisition**.
-
-**Tech Stack**  
-![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=flat-square)
-![C++](https://img.shields.io/badge/C++-Firmware-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Backend-green?style=flat-square)
-![Django](https://img.shields.io/badge/Django-API-darkgreen?style=flat-square)
-
-**Highlights**
-- Real-time sensor data streaming  
-- Backend API for processing and visualization  
-- Scalable architecture for distributed devices  
-
----
-
-### Scientific & Mathematical Computing Tools  
-Engineering tools for **simulation and computational modeling**.
-
-**Tech Stack**  
-![Python](https://img.shields.io/badge/Python-Numerical-blue?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=flat-square)
-
----
-
-### Backend Systems for Data Processing  
-Infrastructure for **sensor data pipelines and dashboards**.
-
-**Tech Stack**  
-![Django](https://img.shields.io/badge/Django-Backend-darkgreen?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-Server-green?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square)
-
----
-
-## Current Focus
-
-- Robotics systems (control + perception)  
-- Embedded ↔ backend integration  
-- IoT architectures (LoRa, distributed systems)  
-- Applied mathematics for engineering systems  
-- AI / Machine Learning  
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150">
-
-  <!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight&cache_seconds=1800" height="150">
--->
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ODARI-CHARLES1&theme=tokyonight" height="150">
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ODARI-CHARLES1&color=blueviolet&style=flat-square">
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,bash,matlab"/>
 </p>
 
 ---
 
-## Contact
+## Embedded Systems
 
-- GitHub: https://github.com/ODARI-CHARLES1  
-- Portfolio: https://charles.k.odari.portfolio.thegtm.or.ke/  
-- LinkedIn: https://ke.linkedin.com/in/odari-kibisi-charles-329b19331  
-- Email: daymondodari68@gmail.com  
+* ESP32
+* STM32
+* Arduino
+* Raspberry Pi
+* FreeRTOS
+* UART
+* SPI
+* I²C
+* CAN
+* MQTT
+* GSM
+* LoRa
+* Sensor Integration
+* PCB Design
+* KiCad
 
 ---
 
-> Engineering is the discipline of turning theoretical knowledge into reliable systems.
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,postgresql,mysql,docker,nginx"/>
+</p>
+
+Experience developing:
+
+* REST APIs
+* Authentication Systems
+* Data Acquisition Platforms
+* IoT Cloud Backends
+* Database Design
+* Microservices
+* Linux Server Deployment
+
+---
+
+## Artificial Intelligence & Scientific Computing
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+</p>
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* MATLAB & Simulink
+* Signal Processing
+* Numerical Methods
+* Scientific Computing
+
+---
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+</p>
+
+---
+
+# Featured Projects
+
+## Smart IoT Monitoring Platform
+
+A scalable IoT platform for remote monitoring of environmental and industrial sensors.
+
+### Features
+
+* Real-time sensor acquisition
+* ESP32 firmware
+* MQTT communication
+* Django REST backend
+* PostgreSQL database
+* Interactive dashboard
+* Cloud deployment
+
+**Technologies**
+
+`ESP32` • `Python` • `Django` • `MQTT` • `PostgreSQL`
+
+---
+
+## Robotics & Embedded Control
+
+Design and implementation of embedded robotic systems involving:
+
+* PID Control
+* Sensor Fusion
+* Motor Control
+* Computer Vision
+* Autonomous Navigation
+* Embedded C/C++
+
+---
+
+## Engineering Simulation Toolkit
+
+A collection of engineering software for:
+
+* Control Systems
+* Fourier Analysis
+* Signal Processing
+* Numerical Methods
+* MATLAB Simulations
+* Python Engineering Libraries
+
+---
+
+## Backend Data Processing Platform
+
+High-performance backend infrastructure for engineering applications.
+
+Includes:
+
+* REST APIs
+* Authentication
+* Sensor Data Pipelines
+* Database Optimization
+* Docker Deployment
+* Analytics Dashboards
+
+---
+
+# Currently Learning
+
+* Advanced Robotics
+* Embedded Linux
+* Real-Time Operating Systems
+* FPGA & Digital Design
+* AI for Embedded Systems
+* ROS2
+* Industrial Automation
+* Distributed IoT Systems
+* Edge AI
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ODARI-CHARLES1&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ODARI-CHARLES1&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Engineering Philosophy
+
+> *"Engineering is the discipline of transforming scientific principles into reliable, efficient, and intelligent systems that improve the world."*
+
+I strive to build technologies that combine **mathematical rigor**, **robust engineering design**, and **modern software practices** to create solutions that are scalable, maintainable, and impactful.
+
+---
+
+# Connect With Me
+
+* **GitHub:** https://github.com/ODARI-CHARLES1
+* **Portfolio:** https://charles.k.odari.portfolio.thegtm.or.ke/
+* **LinkedIn:** https://ke.linkedin.com/in/odari-kibisi-charles-329b19331
+* **Email:** [daymondodari68@gmail.com](mailto:daymondodari68@gmail.com)
+
+---
+
+<p align="center">
+<i>Building intelligent systems at the intersection of electronics, software, and artificial intelligence.</i>
+</p>
