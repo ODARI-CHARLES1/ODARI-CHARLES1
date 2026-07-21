@@ -1,9 +1,9 @@
-# Hi there, I'm Odari K. Charles 👋
+# Hi there, I'm Odari K. Charles 
 
 ### Electrical & Electronics Engineering Student | Embedded Systems Engineer | IoT Developer | Robotics Enthusiast | Backend Engineer | AI & Full-Stack Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="500px">
 </p>
 
 <p align="center">
@@ -199,26 +199,69 @@ Includes:
 
 # GitHub Analytics
 
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/ODARI-CHARLES1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ODARI-CHARLES1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/ODARI-CHARLES1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODARI-CHARLES1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ODARI-CHARLES1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ODARI-CHARLES1&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+#  Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ODARI-CHARLES1&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ODARI-CHARLES1&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ODARI-CHARLES1&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+> **Note:** This requires a GitHub Actions workflow to generate the snake animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ODARI-CHARLES1/ODARI-CHARLES1/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ODARI-CHARLES1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 ---
 
 # Engineering Philosophy
