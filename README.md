@@ -50,6 +50,7 @@ I believe engineering is most impactful when hardware, software, and mathematics
 
 ---
 
+
 # Technical Skills
 
 ## Programming Languages
